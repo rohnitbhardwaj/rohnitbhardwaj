@@ -61,4 +61,4 @@ B.Com (distance learning)
 
 ## 📫 Connect
 <!-- [LinkedIn](your-link) · [Resume](your-link) -->
-Email: your@email.com
+Email: tanish152004@gmail.com
