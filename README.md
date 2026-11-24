@@ -57,7 +57,7 @@ Building more projects across telecom, retail and finance datasets.
 ---
 
 ## 🎓 Education
-B.Com (distance learning)
+B.Com
 
 ---
 
