@@ -1,6 +1,8 @@
 # Hi, I'm Rohnit Bhardwaj 👋
 ### Aspiring Data Analyst | Customer Experience & Business Insights
 
+[📄 Resume](Rohnit_Bhardwaj_Resume.pdf) · [📫 Contact](#-connect)
+
 ---
 
 ## 👤 About
