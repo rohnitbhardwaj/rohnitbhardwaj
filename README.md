@@ -62,5 +62,6 @@ B.Com
 ---
 
 ## 📫 Connect
-<!-- [LinkedIn](your-link) · [Resume](your-link) -->
+[📄 Resume](Rohnit_Bhardwaj_Resume.pdf)
+<!-- [LinkedIn](your-link) -->
 Email: tanish152004@gmail.com
