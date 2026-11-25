@@ -28,7 +28,7 @@ I believe my combination of industry experience, customer understanding and anal
 - **Finding → Recommendation:** Mobile abandons at 77% versus 63% on desktop, and bringing mobile to the desktop rate is worth about $169K. Fix the mobile checkout, especially shipping and billing, and retarget billing-stage abandoners, who are closest to buying.
 - **Tools:** `SQL Server` `Python` `Power BI`
 
-### 3. [Telecom Customer Churn Analysis](https://github.com/rohnitbhardwaj/telecom-customer-churn-analysis)
+### 3. [Telecom Customer Churn Analysis](https://github.com/rohnitbhardwaj/telecom-churn-analysis)
 - **What it is:** Identified which telecom customers are most likely to leave and where monthly revenue is lost, using 7,043 customers (26.5% churned).
 - **Finding → Recommendation:** Month-to-month fiber customers paying by electronic check churn at 60% (about 3x everyone else) and drive about 49% of lost revenue. Target them first with retention offers piloted against a control group, and push contract upgrades and first-year onboarding.
 - **Tools:** `Excel` `Python` `Power BI`
@@ -38,7 +38,7 @@ I believe my combination of industry experience, customer understanding and anal
 - **Finding → Recommendation:** The top 10 vendors take 65% of spend, and large orders only look 67% cheaper per unit because of product mix, with no real discount like for like. Build backup suppliers for the top vendors, negotiate volume-tier pricing instead of just ordering more, and test larger orders with five high-margin mid-size vendors.
 - **Tools:** `Python` `SQL Server` `Power BI`
 
-### 5. [RFM Customer Segmentation Analysis](https://github.com/rohnitbhardwaj/rfm-customer-segmentation-analysis)
+### 5. [RFM Customer Segmentation Analysis](https://github.com/rohnitbhardwaj/rfm-customer-segmentation)
 - **What it is:** Segmented 5,881 online retail customers by buying behaviour to show who drives revenue and who is slipping away.
 - **Finding → Recommendation:** Champions are 22% of customers but generate 68% of revenue, and 446 Loyal customers have already gone quiet for 90+ days. Protect Champions with account-style care, trigger offers at 60-75 days of inactivity, and pilot one win-back campaign for At Risk customers instead of spending on Lost ones.
 - **Tools:** `SQL Server` `Python` `Power BI`
